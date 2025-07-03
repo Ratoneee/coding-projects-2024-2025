@@ -1,0 +1,13 @@
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+2025-04-10      1.5     Planned project structure and decided on features for organizing game assets
+2025-04-11      1.0     Discussed project idea and requirements with a friend
+2025-04-12      2.0     Wrote file scanning function to detect and categorize different asset types
+2025-04-13      1.5     Researched Python file handling with os and shutil modules
+2025-04-14      2.0     Implemented file categorization logic and automated subfolder creation
+2025-04-15      1.0     Wrote test functions to verify file placement and folder creation
+2025-04-15      1.0     Debugged file path issues with various input formats
+2025-04-16      1.0     Attempted to install and configure pytest; ran into Python path issues
+2025-04-16      1.0     Troubleshot Python installation and command-line setup
+2025-04-16      0.5     Verified Python installation and confirmed pytest/pip functionality

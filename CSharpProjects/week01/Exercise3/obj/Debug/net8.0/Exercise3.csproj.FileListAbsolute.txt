@@ -1,0 +1,15 @@
+C:\Homework\cse210\cse210HW\week01\Exercise3\bin\Debug\net8.0\Exercise3.exe
+C:\Homework\cse210\cse210HW\week01\Exercise3\bin\Debug\net8.0\Exercise3.deps.json
+C:\Homework\cse210\cse210HW\week01\Exercise3\bin\Debug\net8.0\Exercise3.runtimeconfig.json
+C:\Homework\cse210\cse210HW\week01\Exercise3\bin\Debug\net8.0\Exercise3.dll
+C:\Homework\cse210\cse210HW\week01\Exercise3\bin\Debug\net8.0\Exercise3.pdb
+C:\Homework\cse210\cse210HW\week01\Exercise3\obj\Debug\net8.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Homework\cse210\cse210HW\week01\Exercise3\obj\Debug\net8.0\Exercise3.AssemblyInfoInputs.cache
+C:\Homework\cse210\cse210HW\week01\Exercise3\obj\Debug\net8.0\Exercise3.AssemblyInfo.cs
+C:\Homework\cse210\cse210HW\week01\Exercise3\obj\Debug\net8.0\Exercise3.csproj.CoreCompileInputs.cache
+C:\Homework\cse210\cse210HW\week01\Exercise3\obj\Debug\net8.0\Exercise3.sourcelink.json
+C:\Homework\cse210\cse210HW\week01\Exercise3\obj\Debug\net8.0\Exercise3.dll
+C:\Homework\cse210\cse210HW\week01\Exercise3\obj\Debug\net8.0\refint\Exercise3.dll
+C:\Homework\cse210\cse210HW\week01\Exercise3\obj\Debug\net8.0\Exercise3.pdb
+C:\Homework\cse210\cse210HW\week01\Exercise3\obj\Debug\net8.0\Exercise3.genruntimeconfig.cache
+C:\Homework\cse210\cse210HW\week01\Exercise3\obj\Debug\net8.0\ref\Exercise3.dll

@@ -1,0 +1,15 @@
+C:\Homework\cse210\cse210HW\week05\Homework\bin\Debug\net8.0\Homework.exe
+C:\Homework\cse210\cse210HW\week05\Homework\bin\Debug\net8.0\Homework.deps.json
+C:\Homework\cse210\cse210HW\week05\Homework\bin\Debug\net8.0\Homework.runtimeconfig.json
+C:\Homework\cse210\cse210HW\week05\Homework\bin\Debug\net8.0\Homework.dll
+C:\Homework\cse210\cse210HW\week05\Homework\bin\Debug\net8.0\Homework.pdb
+C:\Homework\cse210\cse210HW\week05\Homework\obj\Debug\net8.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Homework\cse210\cse210HW\week05\Homework\obj\Debug\net8.0\Homework.AssemblyInfoInputs.cache
+C:\Homework\cse210\cse210HW\week05\Homework\obj\Debug\net8.0\Homework.AssemblyInfo.cs
+C:\Homework\cse210\cse210HW\week05\Homework\obj\Debug\net8.0\Homework.csproj.CoreCompileInputs.cache
+C:\Homework\cse210\cse210HW\week05\Homework\obj\Debug\net8.0\Homework.sourcelink.json
+C:\Homework\cse210\cse210HW\week05\Homework\obj\Debug\net8.0\Homework.dll
+C:\Homework\cse210\cse210HW\week05\Homework\obj\Debug\net8.0\refint\Homework.dll
+C:\Homework\cse210\cse210HW\week05\Homework\obj\Debug\net8.0\Homework.pdb
+C:\Homework\cse210\cse210HW\week05\Homework\obj\Debug\net8.0\Homework.genruntimeconfig.cache
+C:\Homework\cse210\cse210HW\week05\Homework\obj\Debug\net8.0\ref\Homework.dll

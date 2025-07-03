@@ -1,0 +1,15 @@
+C:\Homework\cse210\cse210HW\week01\Exercise2\bin\Debug\net8.0\Exercise2.exe
+C:\Homework\cse210\cse210HW\week01\Exercise2\bin\Debug\net8.0\Exercise2.deps.json
+C:\Homework\cse210\cse210HW\week01\Exercise2\bin\Debug\net8.0\Exercise2.runtimeconfig.json
+C:\Homework\cse210\cse210HW\week01\Exercise2\bin\Debug\net8.0\Exercise2.dll
+C:\Homework\cse210\cse210HW\week01\Exercise2\bin\Debug\net8.0\Exercise2.pdb
+C:\Homework\cse210\cse210HW\week01\Exercise2\obj\Debug\net8.0\Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Homework\cse210\cse210HW\week01\Exercise2\obj\Debug\net8.0\Exercise2.AssemblyInfoInputs.cache
+C:\Homework\cse210\cse210HW\week01\Exercise2\obj\Debug\net8.0\Exercise2.AssemblyInfo.cs
+C:\Homework\cse210\cse210HW\week01\Exercise2\obj\Debug\net8.0\Exercise2.csproj.CoreCompileInputs.cache
+C:\Homework\cse210\cse210HW\week01\Exercise2\obj\Debug\net8.0\Exercise2.sourcelink.json
+C:\Homework\cse210\cse210HW\week01\Exercise2\obj\Debug\net8.0\Exercise2.dll
+C:\Homework\cse210\cse210HW\week01\Exercise2\obj\Debug\net8.0\refint\Exercise2.dll
+C:\Homework\cse210\cse210HW\week01\Exercise2\obj\Debug\net8.0\Exercise2.pdb
+C:\Homework\cse210\cse210HW\week01\Exercise2\obj\Debug\net8.0\Exercise2.genruntimeconfig.cache
+C:\Homework\cse210\cse210HW\week01\Exercise2\obj\Debug\net8.0\ref\Exercise2.dll

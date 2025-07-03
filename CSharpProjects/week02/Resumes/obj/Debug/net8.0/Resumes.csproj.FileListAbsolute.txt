@@ -1,0 +1,15 @@
+C:\Homework\cse210\cse210HW\week02\Resumes\obj\Debug\net8.0\Resumes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Homework\cse210\cse210HW\week02\Resumes\obj\Debug\net8.0\Resumes.AssemblyInfoInputs.cache
+C:\Homework\cse210\cse210HW\week02\Resumes\obj\Debug\net8.0\Resumes.AssemblyInfo.cs
+C:\Homework\cse210\cse210HW\week02\Resumes\obj\Debug\net8.0\Resumes.csproj.CoreCompileInputs.cache
+C:\Homework\cse210\cse210HW\week02\Resumes\obj\Debug\net8.0\Resumes.sourcelink.json
+C:\Homework\cse210\cse210HW\week02\Resumes\bin\Debug\net8.0\Resumes.exe
+C:\Homework\cse210\cse210HW\week02\Resumes\bin\Debug\net8.0\Resumes.deps.json
+C:\Homework\cse210\cse210HW\week02\Resumes\bin\Debug\net8.0\Resumes.runtimeconfig.json
+C:\Homework\cse210\cse210HW\week02\Resumes\bin\Debug\net8.0\Resumes.dll
+C:\Homework\cse210\cse210HW\week02\Resumes\bin\Debug\net8.0\Resumes.pdb
+C:\Homework\cse210\cse210HW\week02\Resumes\obj\Debug\net8.0\Resumes.dll
+C:\Homework\cse210\cse210HW\week02\Resumes\obj\Debug\net8.0\refint\Resumes.dll
+C:\Homework\cse210\cse210HW\week02\Resumes\obj\Debug\net8.0\Resumes.pdb
+C:\Homework\cse210\cse210HW\week02\Resumes\obj\Debug\net8.0\Resumes.genruntimeconfig.cache
+C:\Homework\cse210\cse210HW\week02\Resumes\obj\Debug\net8.0\ref\Resumes.dll

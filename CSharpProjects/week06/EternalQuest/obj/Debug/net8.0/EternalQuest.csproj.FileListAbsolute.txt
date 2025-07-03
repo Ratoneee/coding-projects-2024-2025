@@ -1,0 +1,15 @@
+C:\Homework\cse210\cse210HW\week06\EternalQuest\bin\Debug\net8.0\EternalQuest.exe
+C:\Homework\cse210\cse210HW\week06\EternalQuest\bin\Debug\net8.0\EternalQuest.deps.json
+C:\Homework\cse210\cse210HW\week06\EternalQuest\bin\Debug\net8.0\EternalQuest.runtimeconfig.json
+C:\Homework\cse210\cse210HW\week06\EternalQuest\bin\Debug\net8.0\EternalQuest.dll
+C:\Homework\cse210\cse210HW\week06\EternalQuest\bin\Debug\net8.0\EternalQuest.pdb
+C:\Homework\cse210\cse210HW\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Homework\cse210\cse210HW\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.AssemblyInfoInputs.cache
+C:\Homework\cse210\cse210HW\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.AssemblyInfo.cs
+C:\Homework\cse210\cse210HW\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.csproj.CoreCompileInputs.cache
+C:\Homework\cse210\cse210HW\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.sourcelink.json
+C:\Homework\cse210\cse210HW\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.dll
+C:\Homework\cse210\cse210HW\week06\EternalQuest\obj\Debug\net8.0\refint\EternalQuest.dll
+C:\Homework\cse210\cse210HW\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.pdb
+C:\Homework\cse210\cse210HW\week06\EternalQuest\obj\Debug\net8.0\EternalQuest.genruntimeconfig.cache
+C:\Homework\cse210\cse210HW\week06\EternalQuest\obj\Debug\net8.0\ref\EternalQuest.dll
